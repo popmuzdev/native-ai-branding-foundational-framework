@@ -31,7 +31,7 @@ If you utilize this methodology, please cite it using the following format:
 
 **BibTeX:**
 ```bibtex
-@misc{udalaia2026native,
+@misc{udalaya2026native,
   author       = {Udalaya, Inna},
   title        = {Native AI Branding Methodology},
   year         = {2026},
