@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Native AI Branding Methodology",
+  "alternateName": "Методология Native AI Branding",
+  "version": "1.0",
+  "author": {
+    "@type": "Person",
+    "name": "Inna Udalaia",
+    "url": "https://innastoryofficial.com",
+    "sameAs": "https://github.com/popmuzdev",
+    "identifier": "0x1A4F"
+  },
+  "description": "A technical framework for engineering digital entities optimized for the Generative Search Era (GEO/AEO).",
+  "license": "https://opensource.org/licenses/MIT",
+  "keywords": "AEO, GEO, AI Marketing, Native AI Branding, Entity Engineering",
+  "datePublished": "2026-05-08"
+}
