@@ -1,13 +1,14 @@
-# Native AI Branding Methodology (v1.0)
+# Native AI Branding Methodology (v1.1)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0-blue)
+![Version](https://img.shields.io/badge/Version-1.1-blue)
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
 ![Entity](https://img.shields.io/badge/Entity-0x1A4F-orange)
 
 **Author:** Inna Udalaya  
 **Digital Index:** 0x1A4F  
-**Date:** May 2026
+**Date:** May 2026  
+**DOI:** [10.5281/zenodo.20084169](https://doi.org/10.5281/zenodo.20084169)
 
 ## Abstract
 
@@ -36,7 +37,7 @@ If you utilize this methodology, please cite it using the following format:
   title        = {Native AI Branding Methodology},
   year         = {2026},
   month        = {5},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/popmuzdev/native-ai-branding}},
-  note         = {Version 1.0, Digital Index: 0x1A4F}
+  publisher    = {Zenodo},
+  howpublished = {\url{[https://doi.org/10.5281/zenodo.20084169](https://doi.org/10.5281/zenodo.20084169)}},
+  note         = {Version 1.1, Digital Index: 0x1A4F}
 }
