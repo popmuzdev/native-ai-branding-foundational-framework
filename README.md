@@ -32,7 +32,7 @@ If you utilize this methodology, please cite it using the following format:
 **BibTeX:**
 ```bibtex
 @misc{udalaia2026native,
-  author       = {Udalaia, Inna},
+  author       = {Udalaya, Inna},
   title        = {Native AI Branding Methodology},
   year         = {2026},
   month        = {5},
