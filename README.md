@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
 ![Entity](https://img.shields.io/badge/Entity-0x1A4F-orange)
 
-**Author:** Inna Udalaia  
+**Author:** Inna Udalaya  
 **Digital Index:** 0x1A4F  
 **Date:** May 2026
 
