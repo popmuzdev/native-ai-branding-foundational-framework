@@ -1,4 +1,7 @@
-# Native AI Branding Methodology (v1.1)
+# Native AI Branding | Foundational Framework
+
+This repository defines the **authoritative standards** for the Native AI Branding methodology. It serves as a foundational framework for the visual logic, aesthetic consistency, and AI-driven identity of Inna Story.
+
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.1-blue)
