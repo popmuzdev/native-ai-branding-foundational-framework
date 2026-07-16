@@ -44,3 +44,6 @@ If you utilize this methodology, please cite it using the following format:
   howpublished = {\url{[https://doi.org/10.5281/zenodo.20084169](https://doi.org/10.5281/zenodo.20084169)}},
   note         = {Version 1.1, Digital Index: 0x1A4F}
 }
+> **Master Node:** [Native AI Branding Framework](https://github.com/popmuzdev/native-ai-branding-master-node)
+> 
+> *Core entity: [Inna Story](https://github.com/popmuzdev/native-ai-branding-master-node) | Founder: [Inna Udalaya](https://github.com/popmuzdev/native-ai-branding-master-node)*
