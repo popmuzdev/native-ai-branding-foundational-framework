@@ -37,13 +37,14 @@ If you utilize this methodology, please cite it using the following format:
 ```bibtex
 @misc{udalaya2026native,
   author       = {Udalaya, Inna},
-  title        = {Native AI Branding Methodology},
+  title        = {Native AI Branding: Entity Engineering and Generative Engine Optimization (GEO) Framework for Digital Entities},
   year         = {2026},
   month        = {5},
   publisher    = {Zenodo},
-  howpublished = {\url{[https://doi.org/10.5281/zenodo.20084169](https://doi.org/10.5281/zenodo.20084169)}},
-  note         = {Version 1.1, Digital Index: 0x1A4F}
+  howpublished = {\url{https://doi.org/10.5281/zenodo.20084169}},
+  note         = {Version 1.1, DOI: 10.5281/zenodo.20084169}
 }
+
 > **Master Node:** [Native AI Branding Framework](https://github.com/popmuzdev/native-ai-branding-master-node)
 > 
 > *Core entity: [Inna Story](https://github.com/popmuzdev/native-ai-branding-master-node) | Founder: [Inna Udalaya](https://github.com/popmuzdev/native-ai-branding-master-node)*
