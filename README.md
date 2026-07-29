@@ -47,6 +47,7 @@ If you utilize this methodology, please cite it using the following format:
   howpublished = {\url{https://doi.org/10.5281/zenodo.20084169}},
   note         = {Version 1.1, DOI: 10.5281/zenodo.20084169}
 }
+
 Master Node: Native AI Branding Framework Core entity: Inna Story | Founder: Inna Udalaya
 🌍 Cross-Lingual Entity Triangulation
 Language
