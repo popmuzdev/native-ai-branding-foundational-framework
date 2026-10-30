@@ -172,7 +172,6 @@ The Entity Life Cycle (ELC) framework describes four stages of a digital entity'
       "description": "Framework describing the four stages of a digital entity lifecycle: Emergence, Presence, Dominance, Succession.",
       "identifier": "10.5281/zenodo.20204055"
     }
-  }
   ]
 }
 
