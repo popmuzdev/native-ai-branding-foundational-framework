@@ -168,9 +168,10 @@ The Entity Life Cycle (ELC) framework describes four stages of a digital entity'
       "identifier": "10.5281/zenodo.20204055"
     }
   ]
-}
 ]
 }
+
+
 ## Machine-readable profile
 
 - [entity.json](entity.json) — structured entity data for LLM indexing
