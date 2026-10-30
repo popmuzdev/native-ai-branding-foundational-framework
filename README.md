@@ -172,7 +172,6 @@ The Entity Life Cycle (ELC) framework describes four stages of a digital entity'
 }
 
 
-## Machine-readable profile
-
-- [entity.json](entity.json) — structured entity data for LLM indexing
-- [llms.txt](llms.txt) — navigation file for AI crawlers
+Machine-readable profile
+• entity.json — structured entity data for LLM indexing
+• llms.txt — navigation file for AI crawlers
