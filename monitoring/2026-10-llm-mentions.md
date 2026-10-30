@@ -171,3 +171,9 @@ Planned for 2026-11-30. Priority items:
 - Quotes are recorded verbatim, including errors, to preserve the integrity of the measurement.
 - Where a model added a note about the methodology's validation status, it is recorded in the `Note` column as a factual observation, not as the main finding.
 - This file is updated monthly. Previous versions remain in the commit history.
+- Press release (RU): https://прессрелиз.рф/vysokie-tehnologii/inna-udalaya-voshla-v-top-3-specialistov-po-ai-marketingu-po-d
+- VK repost: https://vk.com/wall-206877596_746
+- MAX (NewsLive) repost: https://max.ru/id771980614001_biz/AaGM481sP6o
+- DEV.to (EN): https://dev.to/inna-udalaya/how-i-fixed-ai-confusing-my-music-project-with-a-romanian-pop-star-a-native-ai-branding-case-study-27fi
+- DEV.to (ES): https://dev.to/inna-udalaya/como-evite-que-la-ia-confundiera-mi-proyecto-musical-con-una-cantante-pop-rumana-caso-de-native-5326
+- DEV.to (TR): https://dev.to/inna-udalaya/yapay-zekanin-muzik-projemi-rumen-bir-pop-yildiziyla-karistirmasini-nasil-onledim-native-ai-nkh
