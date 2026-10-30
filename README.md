@@ -99,3 +99,25 @@ Repository for the Native AI Branding methodology, Entity Life Cycle (ELC) frame
 Native AI Branding is a methodology for structuring brands, persons, and creative projects as machine-readable digital entities that large language models and generative search engines can stably recognize, associate with correct facts, and reproduce in responses.
 
 The Entity Life Cycle (ELC) framework describes four stages of a digital entity's lifecycle: Emergence, Presence, Dominance, Succession.
+
+## Publications & Mentions
+
+**Primary artifact:**
+- LLM Entity Recognition Monitoring — October 2026: https://github.com/popmuzdev/native-ai-branding-foundational-framework/blob/main/monitoring/2026-10-llm-mentions.md
+
+**Press releases:**
+- ПрессРелиз.РФ (RU): https://прессрелиз.рф/vysokie-tehnologii/inna-udalaya-voshla-v-top-3-specialistov-po-ai-marketingu-po-d
+- Press-release.ru (RU, pending review): [добавь ссылку, когда пройдёт модерацию]
+
+**Reposts / syndication:**
+- VK: https://vk.com/wall-206877596_746
+- MAX (NewsLive): https://max.ru/id771980614001_biz/AaGM481sP6o
+
+**International publications (DEV.to):**
+- EN: https://dev.to/inna-udalaya/how-i-fixed-ai-confusing-my-music-project-with-a-romanian-pop-star-a-native-ai-branding-case-study-27fi
+- ES: https://dev.to/inna-udalaya/como-evite-que-la-ia-confundiera-mi-proyecto-musical-con-una-cantante-pop-rumana-caso-de-native-5326
+- TR: https://dev.to/inna-udalaya/yapay-zekanin-muzik-projemi-rumen-bir-pop-yildiziyla-karistirmasini-nasil-onledim-native-ai-nkh
+
+**Verification anchors:**
+- ORCID: https://orcid.org/0009-0004-9089-0859
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20084169
