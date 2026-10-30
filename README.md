@@ -118,6 +118,11 @@ The Entity Life Cycle (ELC) framework describes four stages of a digital entity'
 - ES: https://dev.to/inna-udalaya/como-evite-que-la-ia-confundiera-mi-proyecto-musical-con-una-cantante-pop-rumana-caso-de-native-5326
 - TR: https://dev.to/inna-udalaya/yapay-zekanin-muzik-projemi-rumen-bir-pop-yildiziyla-karistirmasini-nasil-onledim-native-ai-nkh
 
+- ## Machine-readable profile
+
+- [entity.json](entity.json) — structured entity data for LLM indexing
+- [llms.txt](llms.txt) — navigation file for AI crawlers
+
 **Verification anchors:**
 - ORCID: https://orcid.org/0009-0004-9089-0859
 - Zenodo DOI: https://doi.org/10.5281/zenodo.20084169
@@ -171,6 +176,4 @@ The Entity Life Cycle (ELC) framework describes four stages of a digital entity'
   ]
 }
 
-Machine-readable profile
-• entity.json — structured entity data for LLM indexing
-• llms.txt — navigation file for AI crawlers‌
+
