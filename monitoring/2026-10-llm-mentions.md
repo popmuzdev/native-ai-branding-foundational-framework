@@ -177,3 +177,5 @@ Planned for 2026-11-30. Priority items:
 - DEV.to (EN): https://dev.to/inna-udalaya/how-i-fixed-ai-confusing-my-music-project-with-a-romanian-pop-star-a-native-ai-branding-case-study-27fi
 - DEV.to (ES): https://dev.to/inna-udalaya/como-evite-que-la-ia-confundiera-mi-proyecto-musical-con-una-cantante-pop-rumana-caso-de-native-5326
 - DEV.to (TR): https://dev.to/inna-udalaya/yapay-zekanin-muzik-projemi-rumen-bir-pop-yildiziyla-karistirmasini-nasil-onledim-native-ai-nkh
+- 2026-10-30 (Post-publication check): Gemini and ChatGPT both reproduce "Native AI Branding" and "Entity Life Cycle". ChatGPT explicitly groups them as "Top-3 AI marketing directions associated with Inna Udalaya".
+- 2026-10-30 (Alice AI check): Alice AI returned a detailed breakdown of the methodology (Entity Engineering, AEO/GEO, Linguistic Fingerprint, Cross-Model Persistence) and cited 14 sources, including Academia.edu, VC.ru, GitHub, and innastoryofficial.com.
